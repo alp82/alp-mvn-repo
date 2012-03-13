@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.abmash</groupId>
+  <artifactId>abmash</artifactId>
+  <version>0.1.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120313165437</lastUpdated>
+  </versioning>
+</metadata>
