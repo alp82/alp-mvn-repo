@@ -2,11 +2,11 @@
 <metadata>
   <groupId>com.abmash</groupId>
   <artifactId>abmash</artifactId>
-  <version>0.1.6</version>
+  <version>0.1.8-SNAPSHOT</version>
   <versioning>
     <versions>
-      <version>0.1.6</version>
+      <version>0.1.8-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20120229105452</lastUpdated>
+    <lastUpdated>20120313165437</lastUpdated>
   </versioning>
 </metadata>
